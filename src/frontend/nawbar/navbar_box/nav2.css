@@ -1,0 +1,97 @@
+.navv1 {
+    width: 90%;
+    height: 330px;
+    margin: auto;
+    background-color: rgba(139, 0, 139, 0.667);
+    border: 0;
+    display: flex;
+}
+
+.navv2 {
+    width: 90%;
+    height: 360px;
+    margin: auto;
+    background-color: rgba(139, 0, 139, 0.667);
+    border: 0;
+
+}
+
+
+.navv2:hover {
+    box-shadow: 4px 4px 10px 4px rgba(0, 0, 0, 0.922);
+    cursor: pointer;
+}
+
+.navv1:hover {
+    box-shadow: 4px 4px 10px 4px rgba(0, 0, 0, 0.961);
+    cursor: pointer;
+}
+
+
+
+.foto1{
+    width:240px;
+    margin-top: 10px;
+
+    padding: 3px;
+    border-radius: 10px;
+    
+}
+.foto2{
+    width:200px;
+    margin-top: 30px;
+    padding: 3px;
+    border-radius: 10px;
+}
+.foto3{
+    width:150px;
+    margin-top: 50px;
+    padding: 3px;
+    border-radius: 10px;
+}
+.foto4{
+    width:100px;
+    margin-top: 80px;
+    padding: 3px;
+    border-radius: 10px;
+}
+.foto5{
+    width:75px;
+    margin-top: 100px;
+    padding: 3px;
+    border-radius: 10px;
+}
+.foto6{
+    width:50px;
+    margin-top: 120px;
+    padding: 3px;
+    border-radius: 10px;
+}
+.foto7{
+    width:25px;
+    margin-top: 140px;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+.malumot{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    justify-content: center;
+}
+
+.malumot > h3,p{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.malumot > b{
+    color: purple;
+}
+
+
+@media only screen and (max-width: 600px) and (min-width: 400px)  {
+    
+}

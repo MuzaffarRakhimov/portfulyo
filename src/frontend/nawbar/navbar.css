@@ -1,0 +1,33 @@
+.navbor{
+    width: 100%;
+    height: 70px;
+    border: 0;
+    background-color:rgba(0, 0, 0, 0.358);
+
+}
+
+.link{
+    float: left;
+    position:relative;
+    margin-left: 70px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.link:hover{
+   color: rgb(236, 239, 241);
+   cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) and (min-width: 400px)  {
+    .navbor{
+        height: 50px;
+    }
+
+    .link{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        
+    }
+}

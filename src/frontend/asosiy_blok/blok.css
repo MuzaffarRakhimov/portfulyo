@@ -1,0 +1,14 @@
+.blokk{
+    width: 90%;
+    height: 750px;
+    border: 0;
+    margin: auto;
+    box-shadow: 6px 6px 10px 6px rgb(12, 1, 24);
+}
+
+
+@media only screen and (max-width: 600px) and (min-width: 400px)  {
+    .blokk{
+        width: 90%;
+    }
+}
