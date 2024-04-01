@@ -8,37 +8,37 @@ const Nav2 = () => {
 
                 <div className="avtarfoto">
                     <div >
-                        <img src={foto} className="foto1" />
+                        <img src={foto} className="foto1" alt='foto'/>
                     </div>
                 </div>
                 <div className="avtarfoto">
                     <div >
-                        <img src={foto} className="foto2" />
+                        <img src={foto} className="foto2" alt='foto' />
                     </div>
                 </div>
                 <div className="avtarfoto">
                     <div >
-                        <img src={foto} className="foto3" />
+                        <img src={foto} className="foto3" alt='foto' />
                     </div>
                 </div>
                 <div className="avtarfoto">
                     <div >
-                        <img src={foto} className="foto4" />
+                        <img src={foto} className="foto4" alt='foto'/>
                     </div>
                 </div>
                 <div className="avtarfoto">
                     <div >
-                        <img src={foto} className="foto5" />
+                        <img src={foto} className="foto5" alt='foto'/>
                     </div>
                 </div>
                 <div className="avtarfoto">
                     <div >
-                        <img src={foto} className="foto6" />
+                        <img src={foto} className="foto6" alt='foto'/>
                     </div>
                 </div>
                 <div className="avtarfoto">
                     <div >
-                        <img src={foto} className="foto7" />
+                        <img src={foto} className="foto7" alt='foto'/>
                     </div>
                 </div>
             </div>

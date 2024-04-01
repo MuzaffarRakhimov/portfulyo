@@ -8,10 +8,10 @@ const Nav1 = () => {
         <div>
             <div className='divv'>
                 <div className='bolim1'>
-                    <img className='img' src={img} />
+                    <img className='img' src={img} alt='foto'/>
                 </div>
                 <div className='bolim2'>
-                    <img className='img' src={img} />
+                    <img className='img' src={img} alt='foto'/>
                 </div>
             </div>
             <div style={{display:'flex', }}>
