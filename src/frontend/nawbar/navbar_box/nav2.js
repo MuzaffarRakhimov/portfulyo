@@ -47,7 +47,7 @@ const Nav2 = () => {
                 <div className='malumot'>
                 <h3>Malumotim</h3>
                 <p>Men Raximov Muzaffar 1991-yilda tug'ilganman </p>
-                <p>2022-yida Toshkent <b>ITPARK-ITCENTER</b>  markazini QAshqadaryo viloyati Qarshi filialining
+                <p>2022-yilda Toshkent <b>ITPARK-ITCENTER</b>  markazini Qashqadaryo viloyati Qarshi filialining
                    <b> -- Front-end programming -- </b>  yo'nalishida o'qib chiqdim  va 2023 - yilda o'zim mustaqil
                   <b>  -- Node JS -- backend</b> yo'nalishini o'rganib chiqdim.
                     Hozirda <b> -- MERN stack -- </b> yo'nalishida mashg'ulot olib boryabman
